@@ -1,1 +1,20 @@
 /* your code */
+.a {
+	border-radius: 10px;
+	width: 800px;
+	height: 150px;
+	font-family: sans-serif;
+	
+	font-size: 0.65rem;
+	border-spacing: 0px;
+}
+.b {
+	text-align: justify;
+	background-color: #8a57ea;
+	color: white;
+}
+.d {
+	background-color: lightgrey;
+}
+
+
